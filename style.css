@@ -1,0 +1,27 @@
+body{
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(0,0%,90%);
+    text-align: center;
+}
+h1{
+    font-size: 2.5em;
+}
+h2{
+    font-size: 1em;
+}
+ul{
+    text-align: left;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+figure{
+    background-color: white;
+}
+span{
+    font-weight: bold;
+}
+li{
+    margin-bottom: 0.5em;
+}
+
